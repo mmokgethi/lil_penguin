@@ -1,0 +1,63 @@
+Oct 26 16:00:27 +02:00 (none)  Mounting virtual file systems: /run OK
+Oct 26 16:00:27 +02:00 (none)  Bringing up the loopback interface... OK
+Oct 26 16:00:27 +02:00 (none)  Setting hostname to mmokgeth... OK
+Oct 26 16:00:27 +02:00 mmokgeth  Populating /dev with device nodes...  OK
+Oct 26 16:00:30 +02:00 mmokgeth  Activating all swap files/partitions... OK
+Oct 26 16:00:30 +02:00 mmokgeth  Mounting root file system in read-only mode...  OK
+Oct 26 16:00:30 +02:00 mmokgeth  Checking file systems... OK
+Oct 26 16:00:30 +02:00 mmokgeth  Remounting root file system in read-write mode... OK
+Oct 26 16:00:30 +02:00 mmokgeth  Mounting remaining file systems... OK
+Oct 26 16:00:30 +02:00 mmokgeth  Cleaning file systems: /tmp OK
+Oct 26 16:00:30 +02:00 mmokgeth  Retrying failed uevents, if any... OK
+Oct 26 16:00:31 +02:00 mmokgeth  Starting system log daemon... OK
+Oct 26 16:00:31 +02:00 mmokgeth  Starting kernel log daemon... OK
+Oct 26 16:00:31 +02:00 mmokgeth  Bringing up the enp0s3 interface... 
+Oct 26 16:00:31 +02:00 mmokgeth  Starting dhcpcd on the enp0s3 interface... OK
+Oct 26 16:00:31 +02:00 mmokgeth  Initializing kernel random number generator...FAIL
+Oct 26 16:00:31 +02:00 mmokgeth  Starting the D-Bus Messagebus Daemon... OK
+Oct 26 16:00:31 +02:00 mmokgeth  Starting PostgreSQL daemon...FAIL
+Oct 26 16:00:31 +02:00 mmokgeth  Starting fcron... OK
+Oct 26 16:00:31 +02:00 mmokgeth  Starting GPM console mouse service... OK
+--------
+Oct 27 08:40:40 +02:00 (none)  Mounting virtual file systems: /run OK
+Oct 27 08:40:41 +02:00 (none)  Bringing up the loopback interface... OK
+Oct 27 08:40:41 +02:00 (none)  Setting hostname to mmokgeth... OK
+Oct 27 08:40:41 +02:00 mmokgeth  Populating /dev with device nodes...  OK
+Oct 27 08:40:43 +02:00 mmokgeth  Activating all swap files/partitions... OK
+Oct 27 08:40:43 +02:00 mmokgeth  Mounting root file system in read-only mode...  OK
+Oct 27 08:40:43 +02:00 mmokgeth  Checking file systems... OK
+Oct 27 08:40:43 +02:00 mmokgeth  Remounting root file system in read-write mode... OK
+Oct 27 08:40:43 +02:00 mmokgeth  Mounting remaining file systems... OK
+Oct 27 08:40:43 +02:00 mmokgeth  Cleaning file systems: /tmp OK
+Oct 27 08:40:43 +02:00 mmokgeth  Retrying failed uevents, if any... OK
+Oct 27 08:40:44 +02:00 mmokgeth  Starting system log daemon... OK
+Oct 27 08:40:44 +02:00 mmokgeth  Starting kernel log daemon... OK
+Oct 27 08:40:44 +02:00 mmokgeth  Bringing up the enp0s3 interface... 
+Oct 27 08:40:44 +02:00 mmokgeth  Starting dhcpcd on the enp0s3 interface... OK
+Oct 27 08:40:44 +02:00 mmokgeth  Initializing kernel random number generator...FAIL
+Oct 27 08:40:44 +02:00 mmokgeth  Starting the D-Bus Messagebus Daemon... OK
+Oct 27 08:40:44 +02:00 mmokgeth  Starting PostgreSQL daemon...FAIL
+Oct 27 08:40:45 +02:00 mmokgeth  Starting fcron... OK
+Oct 27 08:40:45 +02:00 mmokgeth  Starting GPM console mouse service... OK
+--------
+Oct 27 09:42:50 +02:00 (none)  Mounting virtual file systems: /run OK
+Oct 27 09:42:50 +02:00 (none)  Bringing up the loopback interface... OK
+Oct 27 09:42:50 +02:00 (none)  Setting hostname to mmokgeth... OK
+Oct 27 09:42:50 +02:00 mmokgeth  Populating /dev with device nodes...  OK
+Oct 27 09:42:53 +02:00 mmokgeth  Activating all swap files/partitions... OK
+Oct 27 09:42:53 +02:00 mmokgeth  Mounting root file system in read-only mode...  OK
+Oct 27 09:42:53 +02:00 mmokgeth  Checking file systems... OK
+Oct 27 09:42:53 +02:00 mmokgeth  Remounting root file system in read-write mode... OK
+Oct 27 09:42:53 +02:00 mmokgeth  Mounting remaining file systems... OK
+Oct 27 09:42:53 +02:00 mmokgeth  Cleaning file systems: /tmp OK
+Oct 27 09:42:53 +02:00 mmokgeth  Retrying failed uevents, if any... OK
+Oct 27 09:42:54 +02:00 mmokgeth  Starting system log daemon... OK
+Oct 27 09:42:54 +02:00 mmokgeth  Starting kernel log daemon... OK
+Oct 27 09:42:54 +02:00 mmokgeth  Bringing up the enp0s3 interface... 
+Oct 27 09:42:54 +02:00 mmokgeth  Starting dhcpcd on the enp0s3 interface... OK
+Oct 27 09:42:54 +02:00 mmokgeth  Initializing kernel random number generator...FAIL
+Oct 27 09:42:54 +02:00 mmokgeth  Starting the D-Bus Messagebus Daemon... OK
+Oct 27 09:42:55 +02:00 mmokgeth  Starting PostgreSQL daemon...FAIL
+Oct 27 09:42:55 +02:00 mmokgeth  Starting fcron... OK
+Oct 27 09:42:56 +02:00 mmokgeth  Starting GPM console mouse service... OK
+--------
